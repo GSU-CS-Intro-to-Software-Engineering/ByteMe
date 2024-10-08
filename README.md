@@ -1,0 +1,2 @@
+# ByteMe
+Automatic stock trader
