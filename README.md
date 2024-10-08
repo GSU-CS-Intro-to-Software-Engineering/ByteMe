@@ -1,24 +1,25 @@
 # ByteMe
 Automatic stock trader
 
-Prerequisites
+## Prerequisites
 
 Python3 globally installed on your machine
 pip (Python package manager)
-Running the Project
 
-Clone the repository: git clone https://github.com/DanielTroyano/ByteMeStockTrader.git
+## Running the Project
 
-Install java dependancies using Maven: mvn clean install
+1. Clone the repository: git clone https://github.com/DanielTroyano/ByteMeStockTrader.git
 
-Create a virtual python env: python3 -m venv venv
+2. Install java dependancies using Maven: mvn clean install
 
-Set the virtual env: source venv/bin/activate
+3. Create a virtual python env: python3 -m venv venv
 
-Install sentiment analysis AI: pip install nltk vaderSentiment
+4. Set the virtual env: source venv/bin/activate
 
-Make account on rapidapi.com
+5. Install sentiment analysis AI: pip install nltk vaderSentiment
 
-Obtain YAHOO FINANCE API DATA api key
+6. Make account on rapidapi.com
 
-Load it into ~/.zshrc and save
+7. Obtain YAHOO FINANCE API DATA api key
+
+8. Load it into ~/.zshrc and save
